@@ -1,0 +1,54 @@
+Python interface language 
+python dynamic type caste krti hai
+python apny hisab sy set krdeta h app ko
+mypy
+
+ctype string and jinja 2types hain 
+fstring jinja 
+langchain main ik componet hai template h ik string h varible fix howe wy hain
+fstring jinja
+
+
+terminal pe console pe jakar dekhien python
+print("Hello world")
+
+python sirqasimpiaic.py
+
+python "print('hello world')"
+python 'print("hello world")'
+interactive python notebook ipynb
+
+cntrl enter
+alt enter
+shift enter
+
+google colab  pro
+https://colab.google/
+python --version
+
+python
+print("Pakistan")
+exit()
+
+>>> print("Pakistan")
+Pakistan
+>>> print("Line");print("Line2")
+Line
+Line2
+>>> exit()
+
+pipy.org
+python ky packages
+
+
+3.x.x
+package install krtay hain version dena hota h
+version release management realse ko ik version dena h
+phely ko measure (ik sal m ik br measure version realse krengy)
+minure 3 months
+pet version m choty chotay bugs resolve krtay hain 
+python 3.6 sy above krengy 11 mojid h 12 ani chhaye 10 and 11 stable hochuki h 
+
+deeplearning ai pair programming
+
+
